@@ -1,0 +1,53 @@
+{
+
+  
+
+  "name": "portas_fp",
+
+  
+
+  "version": "1.0.0",
+
+  
+
+  "description": "",
+
+  
+
+  "main": "script.js",
+
+  
+
+  "scripts": {
+    "start": "node script.js",
+    "serve": "http-server"
+  },
+
+  
+
+  "keywords": [],
+
+  
+
+  "author": "",
+
+  
+
+  "license": "ISC",
+
+  
+
+  "devDependencies": {
+
+  
+
+    
+
+  "http-server": "^14.1.1"
+
+  
+
+  }
+
+}
+
